@@ -2,6 +2,6 @@ java punkty = 0;
 java boost = 0;
 badosz Cyberdrunk 2077
 badosz Press any key to get drunk
-badosz 0 points
+badosz punkty
 button GET DRUNK /? punkty = punkty + 1 + boost /redo
 button ENABLE COIN BOOSTER (50 COINS) /? boost = boost + 1 /redo
